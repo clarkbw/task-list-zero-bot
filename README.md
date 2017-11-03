@@ -1,7 +1,8 @@
-# block-on-task-list
+# Task List Zero
 
-> a GitHub App built with [probot](https://github.com/probot/probot) that block
+> a GitHub App built with [probot](https://github.com/probot/probot) that blocks
 > merging a PR while there are unchecked items in your task list.
+> Get Task List Zero!
 
 ## Setup
 
