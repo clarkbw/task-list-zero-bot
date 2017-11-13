@@ -4,6 +4,8 @@
 > merging a PR while there are unchecked items in your task list.
 > Get Task List Zero!
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/clarkbw/task-list-zero-bot.svg)](https://greenkeeper.io/)
+
 ![](https://user-images.githubusercontent.com/2134/32394182-7d2260b2-c099-11e7-93af-3c3ced3fa244.gif)
 
 ## Setup
